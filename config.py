@@ -3,7 +3,7 @@
 
 from os import getenv
 
-# VPS --- FILL COOKIES 🍪 in """ ... """ 
+# VPS --- FILL COOKIES 馃崻 in """ ... """ 
 
 INST_COOKIES = """
 # wtite up here insta cookies
